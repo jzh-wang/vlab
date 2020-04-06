@@ -5,9 +5,12 @@
 ### 使用Markdown极性文本编辑
 
 插入一个公式看看
-$$
+$
 a^2+b^2=c^2
-$$
+$
+\[
+\sqrt{m}
+\]
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
